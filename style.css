@@ -1,0 +1,22 @@
+body{
+    font-family: sans-serif;
+    color:black;
+    font-size: 18px;
+    background-image:url,('backgroun.png');
+    background-size: cover;
+    width:50%;
+    margin:auto;
+}
+
+h1{
+    text-align: center;
+    border-bottom: solid 20px pink;
+    background-color: darkkhaki;
+}
+img {
+    border: dotted 5px black;
+    border-radius: 10%;
+    margin:auto;
+    width: 75%;
+    display:block;
+}
